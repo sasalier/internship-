@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d017091a-388e-4e35-aff2-ec29391c40d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gF1L7Uc2Emx3KMiqURPbg95WZY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../staj_task3" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.Masa">
+    <configuration name="Deste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deste" />
+      <module name="task2-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Masa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Masa" />
+      <module name="task2-2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Masa" />
+        <item itemvalue="Application.Deste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d017091a-388e-4e35-aff2-ec29391c40d0" name="Default Changelist" comment="" />
+      <created>1597695468382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597695468382</updated>
+      <workItem from="1597695475958" duration="18027000" />
+      <workItem from="1597846640880" duration="716000" />
+      <workItem from="1597860191893" duration="3736000" />
+      <workItem from="1603206040272" duration="2185000" />
+      <workItem from="1603227905262" duration="1084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1597845212511">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="739" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1597845212511" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1603229053892">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1603229053892" />
+    <state width="1323" height="189" key="GridCell.Tab.0.bottom" timestamp="1597863930767">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="189" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1597863930767" />
+    <state width="1323" height="189" key="GridCell.Tab.0.center" timestamp="1597863930767">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="189" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1597863930767" />
+    <state width="1323" height="189" key="GridCell.Tab.0.left" timestamp="1597863930766">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="189" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1597863930766" />
+    <state width="1323" height="189" key="GridCell.Tab.0.right" timestamp="1597863930767">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="189" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1597863930767" />
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1597860191950">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1597860191950" />
+  </component>
+</project>
